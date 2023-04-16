@@ -4,12 +4,12 @@
 <h3 align="left">I like spending most of my time coding. Coding is very interesting and I think it is the best decision I have ever made.</h3>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Kamasah-Dickson&show_icons=true&theme=tokyonight&hide_border=true"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamasah-Dickson&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=shinyhawk&show_icons=true&theme=tokyonight&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyhawk&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true"/>
  </div>
   
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamasah-Dickson&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinyhawk&theme=tokyonight"/>
  </div>
  
 
@@ -22,14 +22,14 @@
 <br>
 
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Kamasah-Dickson&theme=tokyonight&hide_border=true"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamasah-Dickson&theme=tokyonight"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=shinyhawk&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shinyhawk&theme=tokyonight"/>
 </div>
      
 <br>
 
 <div align="center">
-<img src="https://github.com/Kamasah-Dickson/Kamasah-Dickson/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/shinyhawk/shinyhawk/blob/output/github-contribution-grid-snake-dark.svg"/>
  </div>
 
 
